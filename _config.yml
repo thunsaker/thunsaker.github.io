@@ -1,0 +1,14 @@
+# Site settings
+title: Thomas Hunsaker
+email: blog@thomashunsaker.com
+description: > # this means to ignore newlines until "baseurl:"
+  Musings on life, programming and raising kids...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://thunsaker.github.io" # the base hostname & protocol for your site
+twitter_username: thunsaker
+github_username:  thunsaker
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+encoding: utf-8
