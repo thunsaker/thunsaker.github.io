@@ -1,14 +1,32 @@
 # Site settings
-title: Thomas Hunsaker
+name: "Thomas Hunsaker"
 email: blog@thomashunsaker.com
-description: > # this means to ignore newlines until "baseurl:"
-  Musings on life, programming and raising kids...
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: "Musings on life, programming and raising kids..."
+author: "Thomas Hunsaker"
+author-bio: "Husband, father, programmer, gamer."
+
 url: "http://thunsaker.github.io" # the base hostname & protocol for your site
-twitter_username: thunsaker
-github_username:  thunsaker
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+twitter: thunsaker
+github:  thunsaker
 
 # Build settings
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 markdown: kramdown
 highlighter: pygments
 encoding: utf-8
+permalink: pretty
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+sass:
+  sass_dir: _scss
+  style: :compressed
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+# ga_domain: m3xm.github.io
+# ga_tracking_id: UA-47727049-1
