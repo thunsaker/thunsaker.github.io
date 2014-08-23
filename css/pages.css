@@ -1,0 +1,364 @@
+@import url("reset.css");
+
+html {
+	margin:0;
+	padding:0;
+}
+
+body {
+	font-size: 1.5em;
+	color:#222;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	background-color:#eee;
+}
+
+h1 {
+	font-size: 3em;
+	font-weight: 100;
+	text-align: center;
+}
+
+h2 {
+	font-size: 2.5em;
+	font-weight: 300;
+	text-align: center;
+}
+
+.section {
+	padding-top:10em;
+	padding-right:10%;
+	padding-left:10%;
+	color:#eee;
+	height:700px;
+}
+
+.section.top {
+	padding-top:10px;
+}
+
+.section h2 {
+	left:0;
+}
+
+/*a {
+	color:#eee;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#222;
+}
+
+a:visited a:active {
+	color:#eee;
+}
+
+.top a {
+	color:#222;
+}
+
+.top a:hover {
+	color:#FF6600;
+}
+
+.top a a:visited a:active {
+	color:#222;
+}*/
+
+.section .description {
+	max-width:600px;
+	font-weight: 100;
+	font-size: 2.5em;
+}
+
+.section.top {
+	color:#222;
+	text-align: center;
+}
+
+.social {
+	margin-top:15px;
+	margin-bottom: 20px;
+	padding:10px;
+}
+
+.top img {
+	width:10em;
+	border:solid 1px #ccc;
+	padding:3px;
+	margin:20px;
+}
+
+.play img {
+	margin:auto;
+}
+
+.bio {
+	font-size:1em;
+	font-weight: 500;
+}
+
+.info {
+	float:right;
+}
+
+.logo_wrapper {
+	float:left;
+	text-align: center;
+}
+
+.logo {
+	width:8em;
+	margin:50px 0 70px 0;
+}
+
+.soup {
+	/* 
+		Base Color: #99FF00 - Green
+		http://colorschemedesigner.com/#2tb1Tw0w0w0w0
+		Secondary A: #FF3300 - Orangey
+		Secondary B: #990099 - Purplish
+
+		Soup Pro Colors:
+		http://colorschemedesigner.com/#3nb1T--Nvw0w0;
+		Base: #0099CC - Blue
+		Secondary A: #FF9900 - Golden Yellow
+		Secondary B: #FF3300 - Orangey
+		*/
+		background-color:#FF9900; /* Orangeish Red */
+	}
+
+	#screen_soup {
+		margin-top:-30em;
+		background-color:#FF9900;
+	}
+
+	#screen_soup img {
+		width: 25em;
+		margin-left:8%;
+	}
+
+
+	.rapido {
+	/*
+		Base Color: #FF6600
+		http://colorschemedesigner.com/#0wb1TsDtSw0w0
+		Secondary A: #333399 - Royal Blue?
+		Secondary B: #00CC33 - Minty Green
+		*/
+		background-color:#333399;
+	}
+
+	#screen_rapido {
+		margin-top:-18.75em;
+		background-color:#333399;
+
+	}
+
+	#screen_rapido img {
+		width: 25em;
+		margin-left:5%;
+	}
+
+	.bitdroid {
+	/*
+		Base Color: #DAAF5B - Tan/Orange - blech
+		http://colorschemedesigner.com/#0Wb1TiErmw0w0
+		Secondary A: #663399 - Purple
+		Secondary B: #339999 - Teal
+		*/
+
+		background-color: #339999;
+	}
+
+	#screen_bitdroid {
+		margin-top:-21.60em;
+		background-color: #339999;
+	}
+
+	#screen_bitdroid img {
+		width: 25em;
+		margin-left:5%;
+		/*margin-left:20em;*/
+	}
+
+
+	@media (max-width: 1200px) {
+		.logo_wrapper {
+			float:none;
+		}
+
+		.logo_wrapper h1 {
+			float:left;
+		}
+
+		.play {
+			float:right;
+			margin-top:20px;
+		}
+
+		.logo {
+			width:8em;
+			float:none;
+			padding:0;
+			margin-top: -80px;
+		}
+
+		.info {
+			float:none;
+			margin-top:40px;
+		}
+
+		.section .description {
+			padding-top:10px;
+			max-width:700px;
+			min-width: 300px;
+			font-weight: 100;
+			font-size: 2em;
+		}
+
+		#screen_soup {
+			margin-top:-5em;
+			background-color:#FF9900;
+		}
+
+		#screen_soup img {
+			width: 25em;
+			margin-left: 15%;
+		}
+
+		#screen_rapido {
+			margin-top:-8em;
+			background-color:#333399;
+		}
+
+		#screen_rapido img {
+			width:25em;
+			margin-left: 15%;
+		}
+
+		#screen_bitdroid {
+			margin-top:-12em;
+			background-color: #339999;
+		}
+
+		#screen_bitdroid img {
+			width: 25em;
+			margin-left: 15%;
+			/*margin-left:20em;*/
+		}
+	}
+
+
+	@media (max-width: 760px) {
+		.logo_wrapper {
+			float:none;
+		}
+
+		.logo_wrapper h1 {
+			float:none;
+		}
+
+		.play {
+			float:right;
+			margin-top:-20px;
+			padding:0;
+			display: block;
+		}
+
+		.play img {
+			margin:0;
+		}
+
+		.logo {
+			width:8em;
+			padding:0;
+			margin-top: 30px;
+		}
+
+		.info {
+			float:none;
+			margin-top:40px;
+		}
+
+		.section .description {
+			text-align: center;
+			padding-top:10px;
+			width:100%;
+			min-width: 300px;
+			font-weight: 300;
+			font-size: 1.5em;
+		}
+
+		#screen_soup {
+			margin-top:0;
+			background-color:#FF9900;
+			text-align: center;
+		}
+
+		#screen_soup img {
+			width: 15em;
+			margin-left: 0;
+		}
+
+		#screen_rapido {
+			margin-top:0;
+			background-color:#333399;
+			text-align: center;
+		}
+
+		#screen_rapido img {
+			width: 15em;
+			margin-left: 0;
+		}
+
+		#screen_bitdroid {
+			margin-top:0;
+			background-color: #339999;
+			text-align: center;
+		}
+
+		#screen_bitdroid img {
+			width: 15em;
+			margin-left: 0;
+		}
+
+		.top {
+			margin:0;
+			padding:20px 2px;
+			height:600px;
+		}
+	}
+
+	@media (max-width: 340px) {
+		body {
+			font-size: 1em;
+			padding: 0;
+		}
+
+		.section.top {
+			padding-top:50px;
+		}
+
+		.top {
+			padding: 0;
+		}
+
+		.section {
+			padding-left:0;
+			padding-right:0;
+		}
+
+		#screen_soup {
+			margin-top:-10em;
+		}
+
+		#screen_rapido {
+			margin-top:-10em;
+		}
+
+		#screen_bitdroid {
+			margin-top:-10em;
+		}
+	}
