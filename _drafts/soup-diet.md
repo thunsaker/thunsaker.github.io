@@ -46,7 +46,7 @@ to your build.gradle, however it is incredibly difficult to make work depending 
 **APK Size**: <span class="apk_text">Unknown</span>
 
 ##Conclusion
-You should definitely attempt to clean up any code/resources that you aren't using in your apps. I saved a grand total of 1MB+ doesn't seem like much, but considering the relatively little effort that it required, well worth it. Maybe you will have better luck with ProGuard than I did. Happy dieting.
+You should definitely attempt to clean up any code/resources that you aren't using in your apps. I saved ~1MB, doesn't seem like much, but considering the relatively small effort (excluding ProGuard) that it required, well worth it. Maybe you will have better luck with ProGuard than I did. Happy dieting.
 
 [cyril]: http://cyrilmottier.com/about/
 [apk-diet]: http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/
