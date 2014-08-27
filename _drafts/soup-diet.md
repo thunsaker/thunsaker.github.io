@@ -14,7 +14,7 @@ tags:
 	}
 </style>
 
-Upworthy title aside, apps have gotten quite bloated lately, with higher resolution assets and numerous libraries that ease development but also contribute, sometimes significantly, to APK size. [Cyril Mottier][cyril] wrote a great article about reducing the size of android apps: [Putting Your APKs On Diet][apk-diet] The post describes general common sense things like, don't include resources you aren't using; to more advanced, use ProGuard to obfuscate and minify code.
+Upworthy title aside, apps have gotten quite bloated lately, with higher resolution assets and numerous libraries that ease development but also contribute, sometimes significantly, to APK size. [Cyril Mottier][cyril] wrote a great article about reducing the size of android apps: [Putting Your APKs On Diet][apk-diet]. The post describes general common sense things, like, don't include resources you aren't using, as well as more advanced things like using ProGuard to obfuscate and minify code.
 
 I put one of my apps, [Soup][soup-play], on the Cyril APK Diet, here are the results:
 
@@ -44,6 +44,8 @@ proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.tx
 {% endhighlight %}
 to your build.gradle, however it is incredibly difficult to make work depending on your included dependencies. After a few hours of searching Google, StackOverflow and GitHub I gave up. I was able to remove some proguard warnings using a few helper libraries, but got stuck on Dagger, like [many][dagger-issues-1], [many][dagger-issues-2], [others][dagger-issues-3]. I could get some warnings to go away, but then another error popped up elsewhere. I don't know how much space I would save if I could actually get ProGuard to run. I'll take another look at it when Dagger 2 is released, it should remove some of the problems I and others encountered.  
 **APK Size**: <span class="apk_text">Unknown</span>
+
+##Final App Size: 4.16MB for a total savings of 18.4%
 
 ##Conclusion
 You should definitely attempt to clean up any code/resources that you aren't using in your apps. I saved ~1MB, doesn't seem like much, but considering the relatively small effort (excluding ProGuard) that it required, well worth it. Maybe you will have better luck with ProGuard than I did. Happy dieting.
