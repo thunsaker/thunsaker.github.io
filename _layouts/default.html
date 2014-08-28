@@ -8,11 +8,15 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       <meta http-equiv="content-language" content="en-US" />
-      <meta name="description" content="Fluid, responsive blog theme for Jekyll.">
+      <meta name="description" content="{{ site.description }}">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
       <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css" />
       <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+      <link rel="icon" href="/assets/img/favicon_large.png">
+      <!--[if IE]>
+        <link rel="Shortcut Icon" href="/favicon.ico" />
+      <![endif]-->
   </head>
 
   <body>
@@ -53,7 +57,7 @@
       <header>
         <div class="h-wrap">
           <h1 class="title"><a href="/" title="Back to Homepage">{{ site.name }}</a></h1>
-          <a href="feed.xml" style="margin-left:10px;">
+          <a href="http://feeds.feedburner.com/ThomasHunsakerBlog" style="margin-left:10px;">
             <svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 42 42" xml:space="preserve" preserveAspectRatio="xMinYMin meet" width="100%" height="100%" style="width: 32px; height: 32px;">
               <g transform="translate(-374.2178,-62.2364)">
                 <path d="M414.718,103.736c0-22.092-17.908-40-40-40v8c17.673,0,32,14.326,32,32H414.718z M398.717,103.736
@@ -63,6 +67,7 @@
                   onmouseout="evt.target.setAttribute('fill', 'rgb(0,0,0)');"></path>
               </g>
             </svg>
+            <!--[if lt IE 9]><span style="font-size:0.75em;">Subscribe</span><![endif]-->
           </a>
           <a class="menu-icon" title="Open Bio"><span class="lines"></span></a>
         </div>
