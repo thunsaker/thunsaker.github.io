@@ -5,7 +5,7 @@ description: "Musings on life, programming and raising kids..."
 author: "Thomas Hunsaker"
 author-bio: "Husband, father, programmer, gamer."
 
-url: "http://thunsaker.github.io" # the base hostname & protocol for your site
+url: "http://blog.thomashunsaker.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 twitter: thunsaker
@@ -27,6 +27,5 @@ sass:
   style: :compressed
 
 # Google Analytics (you may want to changes these with yours or even delete :)
-
-# ga_domain: m3xm.github.io
-# ga_tracking_id: UA-47727049-1
+ga_domain: blog.thomashunsaker.com
+ga_tracking_id: UA-1271542-3
