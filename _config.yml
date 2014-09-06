@@ -6,7 +6,7 @@ author: "Thomas Hunsaker"
 author-bio: "Husband, father, programmer, gamer."
 
 url: "http://blog.thomashunsaker.com" # the base hostname & protocol for your site
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 
 twitter: thunsaker
 github:  thunsaker
