@@ -12,6 +12,7 @@ tags:
 - phone
 - cyanogen
 - android
+image: /img/blue_square.png
 ---
 I upgraded my aging T-Mobile G2 (HTC Desire Z) in November, and boy what a difference 2 years makes. The Samsung Galaxy S III (SGH-T999) is leaps and bounds better than my old phones. It isn’t just the pretty hardware and speedy internals, Google’s latest OS update, Ice Cream Sandwich (Android 4.0) is a HUGE improvement and eliminates almost every complaint someone could throw at Android. The Galaxy S3, as of this writing, is the best Android phone to get, and it is available everywhere, on any carrier. Despite my praises however there are some things that hold it back, and Samsung is to blame, not Google or Android.
 

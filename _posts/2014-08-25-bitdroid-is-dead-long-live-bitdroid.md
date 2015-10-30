@@ -9,6 +9,7 @@ tags:
 - dev
 - brevos
 - bitly
+image: /img/green_square.png
 ---
 
 BitDroid was my first Android app, since it has evolved with the platform since Android 1.5 it has changed a lot over the years, for the better. Android has grown in leaps and bounds, most notably since the introduction of [Android 4.0][android-4] (Ice Cream Sandwich). As a result Android has started to look (and work) much, much better than before. I had [restyled BitDroid][bitdroid-2-2] before after it broke horribly on all Android 4+ devices due to changes in the underlying system.

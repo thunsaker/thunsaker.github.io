@@ -10,10 +10,11 @@ tags:
 - babylife
 - language learning
 - language
+image: http://4.bp.blogspot.com/-m5404xEYbPo/UNymiSaakLI/AAAAAAAAQ-w/ZYViXw0NYx0/s1600/20121111_092013.jpg
 ---
-![Cameron](http://4.bp.blogspot.com/-m5404xEYbPo/UNymiSaakLI/AAAAAAAAQ-w/ZYViXw0NYx0/s1600/20121111_092013.jpg)
-
 Cameron has just turned 2 years old. I have been speaking to him almost exclusively in Spanish since birth. As a non-native Spanish speaker, I have, of course slipped up here and there and spoken to him in English, either out of frustration or out of laziness. I have pushed through, despite the first few months, where it seemed to have no effect and I would only get smiles back, regardless of the words used. Now he has been speaking for quite some time, almost 1.5 years. His first Spanish word was “agua”, which unsurprisingly enough is the first word for many Spanish speakers.
+
+![Cameron](http://4.bp.blogspot.com/-m5404xEYbPo/UNymiSaakLI/AAAAAAAAQ-w/ZYViXw0NYx0/s1600/20121111_092013.jpg)
 
 We had been using baby sign with him as a bridge language. My wife, understands some Spanish and usually knows what he is asking for. The sign language was a huge help before Cameron could talk, he would sign eat, more, milk, water, cheese, cookie, poop, thank you and please before he could utter more than a few indecipherable babbles. He didn’t use them in complete sentences or anything, not that we expected him too, but he was able to communicate, and it gave him a sign for both words in either language. Mom would say water, he’d sign water, I would say agua, and he would sign water. It was/is fascinating to see him communicate, he is learning so fast. Now he regularly says “complete” sentences, while leaving out a few prepositions or joining words in both English and Spanish.
 

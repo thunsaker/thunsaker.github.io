@@ -1,30 +1,31 @@
 # Site settings
-name: "Thomas Hunsaker"
+title: Thomas Hunsaker
 email: blog@thomashunsaker.com
-description: "Musings on life, programming and raising kids..."
-author: "Thomas Hunsaker"
-author-bio: "Husband, father, programmer, gamer."
-
-url: "http://blog.thomashunsaker.com" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  Musings on life, programming and raising kids...
 baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.thomashunsaker.com" # the base hostname & protocol for your site
+twitter_username: thunsaker
+github_username:  thunsaker
 
-twitter: thunsaker
-github:  thunsaker
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+# more_vert:
+#   option1:
+#     name: Cool Option 1
+#     link: www.myawesomelink.com
+
+# disqus: true
+# disqus_shortname: 'gdgmanagua'
 
 # Build settings
-# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 markdown: kramdown
 highlighter: pygments
 encoding: utf-8
 permalink: pretty
-
-# paginate: 10
-# paginate_path: "/page/:num"
-
-# SCSS
-sass:
-  sass_dir: _scss
-  style: :compressed
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 ga_domain: blog.thomashunsaker.com
