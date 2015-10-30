@@ -9,10 +9,12 @@ tags:
 - samsung
 - wireless charging
 - android
+image: http://2.bp.blogspot.com/-3kwWMKOousY/UUfmUGzIhiI/AAAAAAAAUL8/pcdsygESVhs/s1600/galaxy-s3-back-partial.jpg
 ---
-<a href="http://1.bp.blogspot.com/-GORFzQcg2iM/UUfmKE-OqTI/AAAAAAAAUL0/uMqnzCqXpqQ/s1600/galaxy-s3-back-coil.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="210" src="http://1.bp.blogspot.com/-GORFzQcg2iM/UUfmKE-OqTI/AAAAAAAAUL0/uMqnzCqXpqQ/s400/galaxy-s3-back-coil.jpg" width="400" /></a>
 
 After <a href="http://www.theverge.com/2012/5/4/2998461/full-samsung-galaxy-s-iii-launch-event-video/in/2760821">promises</a> of a wireless charging kit, expensive 3rd-party options, getting a <a href="http://www.theverge.com/2012/8/3/3217413/samsung-galaxy-s-iii-verizon-wireless-charger">semi-official version</a> months and months later from Samsung/Verizon and numerous <a href="http://www.theverge.com/2012/5/9/3009404/samsung-galaxy-s-iii-wireless-charge-kit-september">delays</a>, I decided to stop waiting. I don't particularly care for wireless charging, I think it is pretty cool, but it is a bit slower than just plugging in a device. The cost has been a major issue for me, even if the device came with it built-in like the <a href="http://www.theverge.com/2012/9/3/3286656/nokia-lumia-920-wireless-charging-specs-camera-pureview">Lumia 920</a> and <a href="http://www.theverge.com/2012/10/29/3569230/google-wireless-charging-orb-touchstone-qi">Nexus 4</a>, the docks cost 3x as much as a standard wall adapter, I just didn't think it was worth the money.
+
+<a href="http://1.bp.blogspot.com/-GORFzQcg2iM/UUfmKE-OqTI/AAAAAAAAUL0/uMqnzCqXpqQ/s1600/galaxy-s3-back-coil.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="210" src="http://1.bp.blogspot.com/-GORFzQcg2iM/UUfmKE-OqTI/AAAAAAAAUL0/uMqnzCqXpqQ/s400/galaxy-s3-back-coil.jpg" width="400" /></a>
 
 Enter the <a href="http://www.engadget.com/2009/01/13/palm-pre-everything-you-ever-wanted-to-know/">Palm Touchstone</a>.
 
@@ -33,8 +35,5 @@ I'm not going to do a tutorial I just wanted to show off and explain my experien
 <a href="http://4.bp.blogspot.com/-zozvGkSmQ6Y/UUfmxi4eweI/AAAAAAAAUME/czqZ2hHcdUs/s1600/galaxy-s3-back-complete.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="368" src="http://4.bp.blogspot.com/-zozvGkSmQ6Y/UUfmxi4eweI/AAAAAAAAUME/czqZ2hHcdUs/s400/galaxy-s3-back-complete.jpg" width="400" /></a>
 
 It didn't work at first, I had to re-align the copper contacts to get them to line up just right and not cross over. Then I dropped it on the charger, everything lined up correctly, the device snapped into place, the screen came on and began charging. Awesome! It took about $15 and about 30 minutes to complete the hack. The back cover now bulges out slightly but everything snaps down and it looks the same to the untrained eye. I only have one dock for the time being, and it is great being able to just pop it on the dock right before bed and not have to fiddle with the cable in the dark. Daydream (available in Jelly Bean 4.2) allows the clock to display after the phone begins charging, now I have an alarm clock that I can actually see while laying down in bed. If you have a GS3 and are wanting to have a little (somewhat risky) fun with your device, this is a great and cheap hack, easily reversible, unless you snap the thin battery cover while removing it. Or you can wait for the Galaxy S4, which will, just as Samsung <a href="http://www.droid-life.com/2013/03/18/samsung-galaxy-s4-has-qi-standard-wireless-charging-again-with-optional-back-plate/">promised</a> with the GS3, have a wireless charging kit available for purchase at/or around launch.
-
-<!-- <object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="http://i.ytimg.com/vi/-2mcLcZMJFM/0.jpg"><param name="movie" value="http://www.youtube.com/v/-2mcLcZMJFM?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed src="http://www.youtube.com/v/-2mcLcZMJFM?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object> -->
-
 
 <iframe width="100%" height="360" src="//www.youtube.com/embed/-2mcLcZMJFM" frameborder="0" allowfullscreen></iframe>
