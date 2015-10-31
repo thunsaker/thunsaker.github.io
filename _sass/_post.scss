@@ -32,5 +32,12 @@ p img {
       margin-top: 48px;
     }
   }
+}
 
+@media (max-width: 479px) {
+  .post-main {
+    .post-section {
+      padding: 20px;
+    }
+  }
 }
