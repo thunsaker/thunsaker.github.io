@@ -1,4 +1,6 @@
 thunsaker.github.io
 ===================
 
-My new home on the web!
+Musing and life as a father, programmer and human.
+
+Using [Jekyll-MDL](https://github.com/gdg-managua/jekyll-mdl) Theme
