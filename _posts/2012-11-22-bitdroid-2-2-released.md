@@ -4,7 +4,7 @@ author: Thomas Hunsaker
 name: bitdroid-2-2-released
 title: BitDroid 2.2 Released
 time: 2012-11-22 13:14:00.000000000 -08:00
-categories:
+tags:
 - dev
 - apps
 - bitdroid
@@ -22,6 +22,8 @@ I've added a fairly unobtrusive prompt that should get attention or be ignored d
 ![BitDroid Clipboard](http://4.bp.blogspot.com/-KrcYPJ0Cj7Y/UK6TZtOjjGI/AAAAAAAAPI4/fh0BMUVW8WM/s1600/BitDroid_2_2_Main_Clipboard_Samsung_G3_chop.png)
 BitDroid version 2.2 has been pushed to the play store, look for an update in the next few hours.  
 
-[BitDroid Free](http://play.google.com/store/apps/details?id=com.thunsaker)  
+BitDroid Free &nbsp;&nbsp;
+<a href="http://play.google.com/store/apps/details?id=com.thunsaker"><img alt="Get it on Google Play" src="http://www.android.com/images/brand/get_it_on_play_logo_large.png" style="width: 200px;"></a>
 
-[BitDroid Donate](http://play.google.com/store/apps/details?id=com.thunsaker.BitDroid.Donate)
+BitDroid Donate &nbsp;&nbsp;
+<a href="http://play.google.com/store/apps/details?id=com.thunsaker.BitDroid.Donate"><img alt="Get it on Google Play" src="http://www.android.com/images/brand/get_it_on_play_logo_large.png" style="width: 200px;"></a>

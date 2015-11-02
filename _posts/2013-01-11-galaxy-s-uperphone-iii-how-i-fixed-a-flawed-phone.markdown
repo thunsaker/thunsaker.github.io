@@ -4,7 +4,7 @@ author: Thomas Hunsaker
 name: galaxy-s-uperphone-iii-how-i-fixed-a-flawed-phone
 title: Galaxy S(uperphone) III - How I fixed a flawed phone
 time: 2013-01-11 11:19:00.000000000 -08:00
-categories:
+tags:
 - mods
 - mobile
 - cyanogenmod
