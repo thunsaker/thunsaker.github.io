@@ -1,9 +1,10 @@
 ---
 layout: post
+author: Thomas Hunsaker
 name: galaxy-s3-touchstone-awesome-without-wires
 title: Galaxy S3 + Touchstone = Awesome Without Wires
 time: 2013-03-18 21:30:00.000000000 -07:00
-tags:
+categories:
 - hacks
 - tech
 - samsung

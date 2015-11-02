@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Here We Go Again!"
-date:   2014-08-22 17:30:15
-tags: 
+author: Thomas Hunsaker
+title: "Here We Go Again!"
+date: 2014-08-22 17:30:15
+categories: 
 - meta
 image: https://dl.dropboxusercontent.com/u/1931029/batman_robin_running.gif
 ---

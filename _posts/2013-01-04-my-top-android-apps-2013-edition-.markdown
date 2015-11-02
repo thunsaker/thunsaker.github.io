@@ -1,9 +1,10 @@
 ---
 layout: post
+author: Thomas Hunsaker
 name: my-top-android-apps-2013-edition-
 title: My Top Android Apps (2013 Edition)
 time: 2013-01-04 14:01:00.000000000 -08:00
-tags:
+categories:
 - mobile
 - apps
 - android
