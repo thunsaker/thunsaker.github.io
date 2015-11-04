@@ -2,12 +2,14 @@
 layout: post
 name: mobilificationizing
 title: Mobilificationizing
+author: Thomas Hunsaker
 time: 2011-02-11 08:35:00.001000000 -08:00
 tags:
 - mobile
 - jquery
 - productive
 - sickday
+image: /img/pink_square.png
 ---
 
 If you are reading this on a desktop computer, the screen shots are for you. If you have a smartphone or other smaller screened device let me know in the comments how it looks and what does/doesn't work.  

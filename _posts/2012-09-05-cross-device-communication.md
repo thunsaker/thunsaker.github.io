@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Thomas Hunsaker
 name: cross-device-communication
 title: Cross-Device Communication
 time: 2012-09-05 20:28:00.000000000 -07:00

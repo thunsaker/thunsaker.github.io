@@ -1,5 +1,6 @@
 --- 
 layout: post 
+author: Thomas Hunsaker
 name: introducing-rapido- 
 title: Introducing Rapido! 
 time: 2012-09-09 16:50:00.000000000 -07:00 

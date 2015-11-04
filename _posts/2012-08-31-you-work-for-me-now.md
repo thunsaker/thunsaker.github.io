@@ -2,6 +2,7 @@
 layout: post
 name: you-work-for-me-now
 title: You Work for Me Now
+author: Thomas Hunsaker
 time: 2012-08-31 10:19:00.000000000 -07:00
 tags:
 - mobile

@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Thomas Hunsaker
 name: rapido-1-2-released
 title: 'Rapido 1.2 Released'
 time: 2012-10-07 23:42:00.001000000 -07:00
