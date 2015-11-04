@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Thomas Hunsaker
 title:  "BitDroid is Dead. Long live BitDroid!"
 date:   2014-08-25 15:21:35
 tags: 

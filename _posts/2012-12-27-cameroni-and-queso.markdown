@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Thomas Hunsaker
 name: cameroni-and-queso
 title: Cameroni and Queso
 time: 2012-12-27 11:50:00.002000000 -08:00
