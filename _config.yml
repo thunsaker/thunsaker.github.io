@@ -23,7 +23,6 @@ pagination_type: default  # values [ ops, default ]
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
 encoding: utf-8
 permalink: pretty
 
